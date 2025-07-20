@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi! I'm José Amaury
 
-<!--
-**joseamaury/joseamaury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🍽️ Former Chef transitioning into Technology, focusing on **Data Analytics**, **Web Development**, and **Cybersecurity**.
 
-Here are some ideas to get you started:
+🎓 Postgraduate student in Big Data & Business Analytics  
+📚 Currently developing skills in Python, SQL, Git, Networking, Cybersecurity, HTML/CSS, and Power BI  
+🌍 Based in Dublin, Ireland  
+💼 Authorized to work in Ireland (Stamp 1 Visa)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Skills I’m currently building:
+- **Python** for data analysis and automation  
+- **SQL and MySQL** for data management  
+- **Power BI** for data visualization  
+- **Git and GitHub** for version control  
+- **HTML and CSS** for front-end web projects  
+- **Networking and Cybersecurity** (focus on fundamentals, cryptography, authentication, and best practices)  
+- **Programming logic and algorithms**
+
+---
+
+## 🔧 Projects in progress:
+- Python scripts solving practical day-to-day problems  
+- Simple websites using HTML + CSS for front-end practice  
+- Security and networking labs and challenges  
+- Simulated data analysis with Power BI (coming soon)
+
+---
+
+## 🎯 Next steps:
+- Complete courses on **Curso em Vídeo** and **Coursera**  
+- Start **CS50’s Introduction to Computer Science (Harvard/EDX)**  
+- Obtain certifications in:  
+  - **IBM Data Analyst Professional Certificate**  
+  - **Google Advanced Data Analytics Professional Certificate**  
+  - **Google Business Analytics Specialization**
+
+---
+
+## 🤝 Let’s connect!  
+[LinkedIn](https://www.linkedin.com/in/jose-amaury-9910b6245)  
+[Email](mailto:amaury_ama@hotmail.com)
+
