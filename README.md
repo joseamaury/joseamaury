@@ -16,7 +16,7 @@
 - **Git and GitHub** for version control  
 - **HTML and CSS** for front-end web projects  
 - **Networking and Cybersecurity** (focus on fundamentals, cryptography, authentication, and best practices)  
-- **Programming logic and algorithms**
+- **Programming logic and algorithms** 
 
 ---
 
@@ -24,7 +24,7 @@
 - Python scripts solving practical day-to-day problems  
 - Simple websites using HTML + CSS for front-end practice  
 - Security and networking labs and challenges  
-- Simulated data analysis with Power BI (coming soon)
+- Simulated data analysis with Power BI
 
 ---
 
