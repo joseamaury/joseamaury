@@ -39,6 +39,6 @@
 ---
 
 ## 🤝 Let’s connect!  
-[LinkedIn](https://www.linkedin.com/in/jose-amaury-9910b6245)  
+[LinkedIn](https://www.linkedin.com/in/joseamaury/)  
 [Email](mailto:amaury_ama@hotmail.com)
 
