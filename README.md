@@ -1,23 +1,39 @@
 # 👋 Hi! I'm José Amaury
 
-🍽️ Former Chef transitioning into Technology, now fully focused on **Data Analytics**, **Web Development**, and **Cybersecurity**.  
+🍽️ Chef transitioning into Data & Business Intelligence, focused on Data Analytics, Cloud Computing, Artificial Intelligence and Cybersecurity.
 
-🎓 Postgraduate student in **Big Data & Business Analytics (NFQ Level 9)**  
-📚 Intensively developing hands-on skills in **Python, SQL, Excel, Power BI, Cloud, Networking, Cybersecurity, and Web Development**  
-🌍 Based in Dublin, Ireland  
-💼 Authorized to work in Ireland (**Stamp 1 Visa**)  
+🎓 Postgraduate student in Big Data & Business Analytics (NFQ Level 9)
+
+📚 Building practical projects and technical foundations in:
+- Python
+- SQL
+- Power BI
+- Cloud Computing
+- Business Intelligence
+- Cybersecurity
+- AI-assisted workflows
+
+🌍 Based in Dublin, Ireland
 
 ---
 
 ## 📌 Core Skills & Expertise
-- **Python** – data analysis, automation, scripting, and small applications  
+- **Python** – data analysis, automation, scripting and problem-solving  
 - **SQL & MySQL** – database querying, management, and optimization  
 - **Excel (Advanced)** – formulas, pivot tables, data modeling, dashboards  
 - **Power BI** – interactive dashboards, data visualization, reporting  
 - **Git & GitHub** – version control, collaboration, project organization  
-- **HTML, CSS, and JavaScript (basic)** – building and styling web interfaces  
+- **HTML, CSS, and JavaScript** – front-end fundamentals and interface development  
 - **Networking & Cybersecurity** – fundamentals, cryptography, authentication, security best practices  
 - **Data-driven problem solving & programming logic** – applied in real projects and automation  
+
+---
+
+## 🚀 Featured Projects
+
+- Business Intelligence Study Guide with NotebookLM
+- Postgraduate Big Data & Business Analytics Repository
+- Python Automation & Data Projects
 
 ---
 
@@ -31,7 +47,8 @@
 ---
 
 ## 🎯 Current Goals
-- Complete remaining courses from **Curso em Vídeo**, **DIO** and **Coursera** - Completed: 600+ hours of study since 28 May/25  
+Building a strong technical foundation through daily hands-on learning, practical projects and postgraduate studies in English since May 2025. 
+- Complete remaining courses from **Curso em Vídeo**, **DIO** and **Coursera** - 
 - Start **CS50 Introduction to Computer Science (Harvard/EDX)**  – 120 hours
 - Obtain certifications:  
   - **IBM Data Analyst Professional Certificate**  – 150 hours
@@ -50,6 +67,6 @@
 
 ## 🤝 Let’s Connect
 [LinkedIn](https://www.linkedin.com/in/joseamaury/)  
-[Email](mailto:amaury_ama@hotmail.com)  
+[Email](mailto:amaury345.ja@gmail.com)  
 [GitHub Projects](https://github.com/joseamaury)  
 
